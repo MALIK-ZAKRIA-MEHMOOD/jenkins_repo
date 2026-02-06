@@ -1,11 +1,22 @@
 {
+<<<<<<< HEAD
   "name": "ci-website-project",
   "version": "1.0.0",
   "scripts": {
     "test": "mocha \"test/**/*.js\""
+=======
+  "name": "jenkins-basic-test",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "mocha"
+>>>>>>> 71b0925b497dd1a610e5c283307c9e41eac98d26
   },
   "devDependencies": {
     "mocha": "^10.2.0",
     "chai": "^4.4.1"
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 71b0925b497dd1a610e5c283307c9e41eac98d26
